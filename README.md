@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?username=Javivi-MR)](https://github.com/Javivi-MR/github-readme-stats)
+![Javivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javivi-MR&show_icons=true&theme=transparent)
 
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
