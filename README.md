@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/Javivi-MR/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javivi-MR&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/Javivi-MR=&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/Javivi-MR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javivi-MR&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/Javivi-MR=&repo=convoychat" />
 </a>
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
