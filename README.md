@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-![Javivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javivi-MR&show_icons=true&theme=transparent)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  Javivi's stats
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javivi-MR&repo=github-readme-stats" />
+</a>
+  Languages
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javivi-MR&repo=convoychat" />
+</a>
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
