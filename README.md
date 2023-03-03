@@ -11,7 +11,7 @@ Wanna know more about me? <a href="https://www.linkedin.com/in/francisco-javier-
 
 ## Check some of my repositories!
 
-<!--![Snake animation](https://github.com/Javivi-MR/Javivi-MR/blob/output/github-contribution-grid-snake.svg)-->
+[![Snake animation](https://github.com/Javivi-MR/Javivi-MR/blob/output/github-contribution-grid-snake.svg)]
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
