@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" margin-left=16px>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Javivi;Glad+to+see+you+here+%3A)" alt="Typing SVG" /></a>
 </h1>
 
