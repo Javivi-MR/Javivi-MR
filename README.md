@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://github.com/Javivi-MR">Javivi</a> 👋🏼
 
-<a href="https://github.com/Javivi-MR/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/Javivi-MR=&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/Javivi-MR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/Javivi-MR=&repo=convoychat" />
-</a>
+I'm a computer science student currently at my third year. I love learning about technologies and coding. ⚡
+
+## Here are some of my stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javivi-MR&count_private=true&show_icons=true&theme=default&hide_border=true)](https://github.com/Javivi-MR)
+
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
