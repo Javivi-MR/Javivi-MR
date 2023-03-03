@@ -3,7 +3,7 @@
 I'm a computer science student currently at my third year. I love learning about technologies and coding. ⚡ <br>
 Currently I'm focus on my studies, researches and proyects. <br>
 
-Wanna know more about me? <a href="https://www.linkedin.com/in/francisco-javier-molina-rojas-11b126213"> Here </a> is my linkedin, Contact me!😊
+Wanna know more about me? <a href="https://www.linkedin.com/in/francisco-javier-molina-rojas-11b126213"> Here </a> is my Linkedin, contact me!😊
 
 ## Here are some of my stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javivi-MR&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/Javivi-MR)
