@@ -1,9 +1,9 @@
-<h1>
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Javivi;Glad+to+see+you+here+%3A)" 
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Javivi;Glad+to+see+you+here+%3A)" 
     alt="Typing SVG" </img>
   </a>
-</h1>
+</p>
 <p align="center">
 I'm a computer science student currently at my third year. I love learning about technologies and coding. ⚡ <br>
 Currently I'm focus on my studies, researches and proyects. <br>
