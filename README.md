@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img>https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+%F0%9F%91%8B;+I%27m+Javivi;+Glad+to+see+you+here+:);&center=true&size=30%22 </img>
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Javivi;Glad+to+see+you+here+%3A)" alt="Typing SVG" /></a>
 </h1>
 
 I'm a computer science student currently at my third year. I love learning about technologies and coding. ⚡ <br>
