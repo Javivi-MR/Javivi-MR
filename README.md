@@ -1,9 +1,10 @@
-### Hi there, I'm <a href="https://github.com/Javivi-MR">Javivi</a> 👋🏼
+### Hi there, I'm Javivi!👋🏼
 
 I'm a computer science student currently at my third year. I love learning about technologies and coding. ⚡
 
 ## Here are some of my stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javivi-MR&count_private=true&show_icons=true&theme=default&hide_border=true)](https://github.com/Javivi-MR)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javivi-MR&langs_count=8&layout=compact&hide_border=true)](https://github.com/Javivi-MR)
 
 <!--
 **Javivi-MR/Javivi-MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
