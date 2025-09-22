@@ -1,8 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Javivi;Glad+to+see+you+here!)](https://git.io/typing-svg)
 <p align="left">
-I am a fourth-year computer engineering student who is passionate about learning about technology and coding. I'm currently focus on my studies, research, and projects. <br>
-I am constantly seeking opportunities to expand my knowledge and skills in these areas⚡. <br>
+🚀 I am a technology enthusiast, especially passionate about computer science and cybersecurity. <br>
+
+🎓 Currently, I am completing a Master’s degree in Cybersecurity, while working as a full-time Fullstack Engineer at Surcontrol, where I mainly develop using .NET (C#) and TypeScript.<br>
+
+💻 Although I participate in different areas of development, what I truly enjoy is the backend, where I can focus on application logic, performance, and architecture.<br>
+
+🔐 My main interests revolve around cybersecurity. I am passionate about researching attacks, malware, and the various strategies that exist to protect systems and data.<br>
 </p>
 
 <p align="left">
