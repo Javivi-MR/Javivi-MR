@@ -3,9 +3,9 @@
 <p align="left">
 🚀 I am a technology enthusiast, especially passionate about software developing and cybersecurity. <br>
 
-🎓 Currently, I am completing a Master’s degree in Cybersecurity, while working as a full-time Fullstack Engineer at Surcontrol, where I mainly develop using .NET (C#) and TypeScript.<br>
+🎓 Currently, I am completing a Master’s degree in Cybersecurity, while working as a full-time Software Engineer on defense simulators (C++/Qt) at SII Group<br>
 
-💻 Although I participate in different areas of development, what I truly enjoy is the backend, where I can focus on application logic, performance, and architecture.<br>
+💻 Although I participate in different areas of development, what I truly enjoy is the backend, where I can focus on application logic, performance, and architecture. I also have experience with .NET (C#) and Typescript<br>
 
 🔐 My main interests revolve around cybersecurity. I am passionate about researching attacks, malware, and the various strategies that exist to protect systems and data.<br>
 </p>
